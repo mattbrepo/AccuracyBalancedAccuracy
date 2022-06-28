@@ -11,7 +11,7 @@ I wanted to compare Accuracy and Balanced Accuracy to evaluate a binary classifi
 ## A simple observation
 Accuracy and Balanced Accuracy have the same value if the dataset is perfectly balanced (i.e., p = n):
 
-$$ \frac{TP+TN}{P+N} = \frac{Sensitivity + Specificity}{2}  &&  \text{when p = n} $$
+$$ \frac{TP+TN}{P+N} = \frac{Sensitivity + Specificity}{2}  \text{when p = n} $$
 
 $$ \frac{TP+TN}{P+N} = \frac{\frac{TP}{P} + \frac{TN}{N}}{2} $$
 
