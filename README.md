@@ -6,7 +6,7 @@
 **Start: 2022**
 
 ## Why
-I wanted to compare _Accuracy_ and _Balanced Accuracy_ to evaluate a binary classification model.
+I wanted to compare _Accuracy_ and _Balanced Accuracy_ when evaluating binary classification models.
 
 ## A simple observation
 A first simple observation is that Accuracy and Balanced Accuracy have the same values if the dataset is perfectly balanced (i.e., when **N = P**):
