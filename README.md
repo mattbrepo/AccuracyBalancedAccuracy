@@ -60,4 +60,4 @@ Where the greatest difference is:
 1316 70 30 70  2 0.72 0.5333333 0.1866667
 ```
 
-for a "model" using an unbalanced dataset (70 P and 30 N) that it is very good with the positive class (TP = 70, Sensitivity = 100%) but quite poor with the negative class (TN = 2). This is a classic example where the Balanced Accuracy seems to yield a more reasonable result.
+for a "model" using an unbalanced dataset (70 P and 30 N) that it is very good with the positive class (TP = 70, Sensitivity = 100%) but quite poor with the negative class (TN = 2, Specificity = 6.6%). This is a classic example where the Balanced Accuracy seems to yield a more reasonable result than the Accuracy.
