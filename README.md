@@ -1,5 +1,5 @@
 # AccuracyBalancedAccuracy
-[Accuracy vs Balanced Accuracy](https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers) for binary classification
+[Accuracy vs Balanced Accuracy](https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers) for binary classification.
 
 **Language: R**
 
